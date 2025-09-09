@@ -1,0 +1,3 @@
+integer:string:integer
+id:name:salary
+pk:none:none:
